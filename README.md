@@ -1,1 +1,1 @@
-# learn-shell
+this repos will be sent to github
