@@ -1,0 +1,15 @@
+# echo -e "\e[COLmMESSAGE\e[0m"
+# red -e "\e[31mMESSAGE\e[0m"
+#green -e "\e[32mMESSAGE\e[0m"
+#yellow -e "\e[33mMESSGE\e[0m"
+#blue -e "\e[34mMESSAGE\e[0m"
+#magenta -e "\e[35mMEASSAGE\e[0m"
+#cyan -e "\e[36mMESSAGE\e[0m"
+
+
+echo -e "\e[31mMESSAGE\e[0m"
+echo -e "\e[32mMESSAGE\e[0m"
+echo -e "\e[33mMESSAGE\e[0m"
+echo -e "\e[34mMESSAGE\e[0m"
+echo -e "\e[35mMESSAGE\e[0m"
+echo -e "\e[36mMESSAGE\e[0m"
