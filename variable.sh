@@ -15,3 +15,9 @@ echo hey today date is $Date
 
 Date=$(date +%F)
 echo hey today date is $Date
+
+
+# arthametic substitution
+
+ADD=$((2+3))
+echo ADD -$ADD
