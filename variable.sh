@@ -12,3 +12,6 @@ echo class name -$class
 Date=2023-02-23
 
 echo hey today date is $Date
+
+Date=$(date +%F)
+echo hey today date is $Date
