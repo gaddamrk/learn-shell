@@ -8,3 +8,7 @@ echo "***** hello world *********"
 
 echo Trainer name -$trainer
 echo class name -$class
+
+Date=2023-02-23
+
+echo hey today date is $Date
