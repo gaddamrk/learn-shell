@@ -1,0 +1,3 @@
+read,write
+a=10
+echo $b
