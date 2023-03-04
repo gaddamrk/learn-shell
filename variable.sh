@@ -2,12 +2,14 @@ hello world
 echo hello world
 echo "***** hello world *********"
 
-   trainer=Raghu
-   class=Devops
+trainer=Raghu
+class=Devops
 
 
 echo Trainer name -$trainer
-echo class name -$class
+echo class name   -${class}
+
+#either u can use $trainer or else u can use ${trainer}
 
 Date=2023-02-23
 
